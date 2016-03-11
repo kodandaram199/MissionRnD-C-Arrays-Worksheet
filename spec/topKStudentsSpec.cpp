@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "CppUnitTest.h"
 #include "../src/topKStudents.cpp"
+#pragma warning(disable:4996)
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
